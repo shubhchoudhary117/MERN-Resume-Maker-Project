@@ -1,0 +1,423 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.resume-template-section{
+    width: 100%;
+    height: 84%;
+ 
+}
+.resume-template-section .template-wrapper{
+    width: 98%;
+    height: 700px;
+    border: 1px solid #e4e4e7;
+    margin-left: -2px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+.resume-template-section .template-wrapper .template-container
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.resume-template-section .template-wrapper .template-container .template-border{
+    width: 35px;
+   
+    background-color: var(--template-border);
+    border-top-left-radius: 5px;
+    
+}
+.resume-template-section .template-wrapper .template-container .personal-details{
+    width: 230px;
+    height: 100%;
+    background-color: var(--personal-dtechnical-skills);
+ 
+}
+.resume-template-section .template-wrapper .template-container .personal-details .header{
+    width: 100%;
+    margin-top: 20px;
+   
+}
+.resume-template-section .template-wrapper .template-container .personal-details .header .template-heading{
+    font-size: 1.1rem;
+    padding-left: 12px;
+    color: var(--comman-color);
+    text-transform: capitalize;
+    font-weight: 400;
+    font-family: Arial, Helvetica, Arial, sans-serif;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .header .header-divider{
+    width: 80%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-left: 12px ;
+    margin-top: 10px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact{
+    margin-top: 10px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul{
+    list-style: none;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul li{
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    margin-top: 12px;
+    color: var(--comman-black-color);
+    font-size: 0.8rem;
+    font-weight: 400;
+    font-family: var(--comman-font);
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul  .email{
+    display: flex;
+    align-self: center;
+
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul  .email .email-address{
+   width: 70%;
+   font-size: 0.6rem;
+  word-wrap: break-word;
+  padding-top: 5px;
+    
+}
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul  .address .address-name{
+    width: 70%;
+    font-size: 0.6rem;
+   word-wrap: break-word;
+   padding-top: 5px;
+     
+ }
+.resume-template-section .template-wrapper .template-container .personal-details .contact ul li .icon{
+    font-size: 23px;
+    color: var(--comman-color);
+    margin-right: 5px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .technical-skills{
+    width: 100%;
+    margin-top: 20px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .technical-skills .heading{
+font-size: 1.2rem;
+text-transform: capitalize;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding-left: 12px;
+color: var(--comman-color);
+}
+.resume-template-section .template-wrapper .template-container .personal-details .technical-skills  .divider{
+    width: 80%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .technical-skills .skills-list ul{
+    list-style: none;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .technical-skills .skills-list ul li{
+    padding-left: 14px;
+    padding-top: 4px;
+    font-family: var(--roboto);
+    font-size: 0.8rem;
+    color: #333333;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+/* end of technical skills --------------------------------------------------------------------- */
+.resume-template-section .template-wrapper .template-container .personal-details .profiles{
+    width: 100%;
+    margin-top: 20px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .profiles .heading{
+font-size: 1.2rem;
+text-transform: capitalize;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding-left: 12px;
+color: var(--comman-color);
+}
+.resume-template-section .template-wrapper .template-container .personal-details .profiles  .divider{
+    width: 80%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .profiles
+ .profile-list .profile:not(:nth-child(1)){
+    margin-top: 5px;
+ }
+.resume-template-section .template-wrapper .template-container .personal-details .profiles
+ .profile-list .profile .profile-heading {
+   font-size: 0.9rem;
+   padding-top: 10px;
+   padding-left: 12px;
+   text-transform: capitalize;
+   font-family: var(--roboto);
+   color: #333333;
+}
+.resume-template-section .template-wrapper .template-container .personal-details .profiles
+ .profile-list .profile .profile-link{
+    padding-left: 12px;
+    padding-top: 5px;
+    font-size: 0.7rem;
+    font-family: var(--roboto);
+ }
+
+
+/* end of personal details section -------------------------------------------------------------------------------------- */
+.resume-template-section .template-wrapper .template-container .resume-content{
+    width: 75%;
+
+    height: 100%;
+    padding-bottom: 20px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .header .heading{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    padding-left: 12px;
+    color: var(--comman-color);
+    padding-top: 10px;
+}
+/* profile summary --------------------------------------------------------------------- */
+
+.resume-template-section .template-wrapper .template-container .resume-content .profile-summary .profile-heading{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-family: var(--comman-font);
+    padding-left: 12px;
+    color: var(--comman-color);
+   
+    font-weight: 400;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .profile-summary .divider{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .profile-summary .summary-text{
+    width: 97%;
+    word-wrap: break-word;
+    padding-left: 10px;
+    padding: 12px;
+    padding-left: 14px;
+    font-size: 0.8rem;
+    font-family: var(--comman-font);
+    text-transform: capitalize;
+    color: #333333;
+    line-height: 20px;
+}
+/* end of profile summary --------------------------------------------------------------------------------- */
+
+/* internship experience --------------------------------------------------------------------- */
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience{
+    margin-top: 13px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience .internship-experience-heading{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-family: var(--comman-font);
+    padding-left: 12px;
+    color: var(--comman-color);
+    padding-top: 10px;
+    font-weight: 400;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience .divider{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience .internship-list{
+    margin-top: 20px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience .internship-list .internship-li{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .internship-experience .internship-list .internship-li .marker{
+    margin-left: 12px;
+    width: 6%;
+}
+.resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .marker .icon{
+    font-size: 13px;
+    color: var(--comman-color);
+}
+.resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 5px;
+
+ }
+ .resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details .internship-detail{
+    width: 100%;
+ }
+ .resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details .internship-detail .company-name{
+    width: 90%;
+   
+    font-size: 15px;
+    font-family: var(--comman-font);
+    color: var(--comman-black-color);
+    text-transform: capitalize;
+
+ }
+ .resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details .internship-detail .internship-description{
+    width: 90%;
+   
+    padding-top: 4px;
+    color: var(--comman-black-color);
+    text-transform: capitalize;
+    font-size:0.7rem ;
+    word-wrap: break-word;
+ }
+ .resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details .internship-date{
+    display: flex;
+    align-items: center;
+ }
+
+ .resume-template-section .template-wrapper .template-container .resume-content
+ .internship-experience .internship-list .internship-li .internship-details .internship-date .start,.end{
+    font-size: 0.8rem;
+    padding: 4px;
+ }
+/* end of profile summary --------------------------------------------------------------------------------- */
+
+/* start the education section ----------------------------------------------- */
+.resume-template-section .template-wrapper .template-container .resume-content .education-section{
+    margin-top: 13px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-heading{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-family: var(--comman-font);
+    padding-left: 12px;
+    color: var(--comman-color);
+    padding-top: 10px;
+    font-weight: 400;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .divider{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper .education-details{
+    width: 100%;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper 
+.education-details .course-name{
+    width: 80%;
+    padding-left: 12px;
+    font-size: 14px;
+    font-family: var(--comman-font);
+    color: var(--comman-black-color);
+    text-transform: capitalize;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper  
+.education-details  .collage-name{
+    width: 80%;
+    padding-left: 12px;
+    padding-top: 4px;
+    color: var(--comman-color);
+    text-transform: capitalize;
+    font-size:0.9rem ;
+
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper 
+.education-details .cgpa{
+    padding-left: 12px;
+    padding-top: 4px;
+    font-size: 0.9rem;
+    font-family: var(--comman-font);
+    color: var(--comman-black-color);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .education-section .education-wrapper .education-date{
+    padding-right: 10px;
+    font-size: 0.8rem;
+}
+/* end of profile summary --------------------------------------------------------------------------------- */
+
+/* start the certifications section ------------------------------------------------------------------------- */
+.resume-template-section .template-wrapper .template-container .resume-content .certifications{
+    margin-top: 13px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications .certificate-heading{
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    font-family: var(--comman-font);
+    padding-left: 12px;
+    color: var(--comman-color);
+    padding-top: 10px;
+    font-weight: 400;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications .divider{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(0,0,0,0.1);
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications .certificate{
+    width: 100%;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications .certificate .certificate-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    align-items: center;
+}
+
+.resume-template-section .template-wrapper .template-container .resume-content .certifications
+ .certificate .certificate-wrapper .certificate-details{
+    width: 100%;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications
+ .certificate .certificate-wrapper .certificate-details .certificate-name{
+    width: 80%;
+    padding-left: 12px;
+    font-size: 15px;
+    font-family: var(--comman-font);
+    color: var(--comman-black-color);
+    text-transform: capitalize;
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications
+ .certificate .certificate-wrapper .certificate-details  .certificate-description{
+    width: 100%;
+    padding-left: 12px;
+    padding-top: 4px;
+    color: var(--comman-black-color);
+    text-transform: capitalize;
+    font-size:0.7rem ;
+    word-wrap: break-word;
+
+}
+.resume-template-section .template-wrapper .template-container .resume-content .certifications
+ .certificate .certificate-wrapper  .certificate-date{
+    padding-right: 10px;
+    font-size: 0.8rem;
+ }

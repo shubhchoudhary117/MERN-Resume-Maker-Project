@@ -1,0 +1,306 @@
+<svg width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#333333" />
+<path d="M 30,30 L 565.28,30 C 565.28,30,565.28,30,565.28,30 L 565.28,194.275 C 565.28,194.275,565.28,194.275,565.28,194.275 L 30,194.275 C 30,194.275,30,194.275,30,194.275 L 30,30 C 30,30,30,30,30,30 Z" fill="white" />
+<path d="M 40,40 L 555.28,40 C 555.28,40,555.28,40,555.28,40 L 555.28,184.275 C 555.28,184.275,555.28,184.275,555.28,184.275 L 40,184.275 C 40,184.275,40,184.275,40,184.275 L 40,40 C 40,40,40,40,40,40 Z" fill="#8a0f4e" />
+<text x="60" y="93.5125" style="font:bold 35px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">EMILY </text>
+<text x="182.67236328125" y="93.5125" style="font:bold 35px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">JONES</text>
+<image x="60" y="111.65" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik01MDIuMyAxOTAuOGMzLjktMy4xIDkuNy0uMiA5LjcgNC43VjQwMGMwIDI2LjUtMjEuNSA0OC00OCA0OEg0OGMtMjYuNSAwLTQ4LTIxLjUtNDgtNDhWMTk1LjZjMC01IDUuNy03LjggOS43LTQuNyAyMi40IDE3LjQgNTIuMSAzOS41IDE1NC4xIDExMy42IDIxLjEgMTUuNCA1Ni43IDQ3LjggOTIuMiA0Ny42IDM1LjcuMyA3Mi0zMi44IDkyLjMtNDcuNiAxMDItNzQuMSAxMzEuNi05Ni4zIDE1NC0xMTMuN3pNMjU2IDMyMGMyMy4yLjQgNTYuNi0yOS4yIDczLjQtNDEuNCAxMzIuNy05Ni4zIDE0Mi44LTEwNC43IDE3My40LTEyOC43IDUuOC00LjUgOS4yLTExLjUgOS4yLTE4Ljl2LTE5YzAtMjYuNS0yMS41LTQ4LTQ4LTQ4SDQ4QzIxLjUgNjQgMCA4NS41IDAgMTEydjE5YzAgNy40IDMuNCAxNC4zIDkuMiAxOC45IDMwLjYgMjMuOSA0MC43IDMyLjQgMTczLjQgMTI4LjcgMTYuOCAxMi4yIDUwLjIgNDEuOCA3My40IDQxLjR6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed" />
+<text x="75" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">emily</text>
+<text x="96.00146484375" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">.</text>
+<text x="98.501953125" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">jones</text>
+<text x="120.017578125" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">@</text>
+<text x="129.15380859375" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">gmail</text>
+<text x="150.66064453125" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">.</text>
+<text x="153.1611328125" y="119.075" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">com</text>
+<image x="60" y="125.4" width="9" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik00OTMuNCAyNC42bC0xMDQtMjRjLTExLjMtMi42LTIyLjkgMy4zLTI3LjUgMTMuOWwtNDggMTEyYy00LjIgOS44LTEuNCAyMS4zIDYuOSAyOGw2MC42IDQ5LjZjLTM2IDc2LjctOTguOSAxNDAuNS0xNzcuMiAxNzcuMmwtNDkuNi02MC42Yy02LjgtOC4zLTE4LjItMTEuMS0yOC02LjlsLTExMiA0OEMzLjkgMzY2LjUtMiAzNzguMS42IDM4OS40bDI0IDEwNEMyNy4xIDUwNC4yIDM2LjcgNTEyIDQ4IDUxMmMyNTYuMSAwIDQ2NC0yMDcuNSA0NjQtNDY0IDAtMTEuMi03LjctMjAuOS0xOC42LTIzLjR6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed" />
+<text x="75" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">(</text>
+<text x="77.9970703125" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">111</text>
+<text x="93.01318359375" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">) </text>
+<text x="98.5107421875" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">234</text>
+<text x="113.52685546875" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">-</text>
+<text x="116.52392578125" y="132.82500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">5678</text>
+<image x="59.4375" y="139.15" width="10.125" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNTc2IDUxMiIgd2lkdGg9IjU3NiIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik0yODAuMzcgMTQ4LjI2TDk2IDMwMC4xMVY0NjRhMTYgMTYgMCAwIDAgMTYgMTZsMTEyLjA2LS4yOWExNiAxNiAwIDAgMCAxNS45Mi0xNlYzNjhhMTYgMTYgMCAwIDEgMTYtMTZoNjRhMTYgMTYgMCAwIDEgMTYgMTZ2OTUuNjRhMTYgMTYgMCAwIDAgMTYgMTYuMDVMNDY0IDQ4MGExNiAxNiAwIDAgMCAxNi0xNlYzMDBMMjk1LjY3IDE0OC4yNmExMi4xOSAxMi4xOSAwIDAgMC0xNS4zIDB6TTU3MS42IDI1MS40N0w0ODggMTgyLjU2VjQ0LjA1YTEyIDEyIDAgMCAwLTEyLTEyaC01NmExMiAxMiAwIDAgMC0xMiAxMnY3Mi42MUwzMTguNDcgNDNhNDggNDggMCAwIDAtNjEgMEw0LjM0IDI1MS40N2ExMiAxMiAwIDAgMC0xLjYgMTYuOWwyNS41IDMxQTEyIDEyIDAgMCAwIDQ1LjE1IDMwMWwyMzUuMjItMTkzLjc0YTEyLjE5IDEyLjE5IDAgMCAxIDE1LjMgMEw1MzAuOSAzMDFhMTIgMTIgMCAwIDAgMTYuOS0xLjZsMjUuNS0zMWExMiAxMiAwIDAgMC0xLjctMTYuOTN6Ij48L3BhdGg+PC9zdmc+" image-rendering="optimizeSpeed" />
+<text x="75" y="146.57500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Tucson</text>
+<text x="104.513671875" y="146.57500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">, </text>
+<text x="109.5146484375" y="146.57500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">AZ</text>
+<image x="60.5625" y="152.9" width="7.875" height="9" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiIgd2lkdGg9IjQ0OCIgaGVpZ2h0PSI1MTIiPjxwYXRoIGQ9Ik00MTYgMzJIMzEuOUMxNC4zIDMyIDAgNDYuNSAwIDY0LjN2MzgzLjRDMCA0NjUuNSAxNC4zIDQ4MCAzMS45IDQ4MEg0MTZjMTcuNiAwIDMyLTE0LjUgMzItMzIuM1Y2NC4zYzAtMTcuOC0xNC40LTMyLjMtMzItMzIuM3pNMTM1LjQgNDE2SDY5VjIwMi4yaDY2LjVWNDE2em0tMzMuMi0yNDNjLTIxLjMgMC0zOC41LTE3LjMtMzguNS0zOC41UzgwLjkgOTYgMTAyLjIgOTZjMjEuMiAwIDM4LjUgMTcuMyAzOC41IDM4LjUgMCAyMS4zLTE3LjIgMzguNS0zOC41IDM4LjV6bTI4Mi4xIDI0M2gtNjYuNFYzMTJjMC0yNC44LS41LTU2LjctMzQuNS01Ni43LTM0LjYgMC0zOS45IDI3LTM5LjkgNTQuOVY0MTZoLTY2LjRWMjAyLjJoNjMuN3YyOS4yaC45YzguOS0xNi44IDMwLjYtMzQuNSA2Mi45LTM0LjUgNjcuMiAwIDc5LjcgNDQuMyA3OS43IDEwMS45VjQxNnoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="75" y="160.32500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">linkedin</text>
+<text x="105.52001953125" y="160.32500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">.</text>
+<text x="108.0205078125" y="160.32500000000002" style="font:normal 9px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">com/in/ejones</text>
+<text x="40" y="226.425" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="#999999">HARD </text>
+<text x="82.3359375" y="226.425" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="#999999">SKILLS</text>
+<text x="40" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Classroom </text>
+<text x="90.56640625" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Management</text>
+<rect x="40" y="259.4" width="140" height="4" fill="#999999"/>
+<text x="40" y="288.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Lesson </text>
+<text x="75.0244140625" y="288.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Planning</text>
+<rect x="40" y="296.9" width="140" height="4" fill="#999999"/>
+<text x="40" y="325.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Curriculum </text>
+<text x="91.1181640625" y="325.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Development</text>
+<rect x="40" y="334.4" width="140" height="4" fill="#999999"/>
+<text x="40" y="363.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Computer </text>
+<text x="86.6845703125" y="363.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Skills</text>
+<rect x="40" y="371.9" width="140" height="4" fill="#999999"/>
+<text x="40" y="400.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Grading </text>
+<text x="78.3544921875" y="400.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">and </text>
+<text x="97.8173828125" y="400.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Assessment</text>
+<rect x="40" y="409.4" width="140" height="4" fill="#999999"/>
+<text x="40" y="450.42499999999995" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="#999999">SOFT </text>
+<text x="80.33203125" y="450.42499999999995" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="#999999">SKILLS</text>
+<text x="40" y="474.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Empathy</text>
+<rect x="40" y="483.4" width="140" height="4" fill="#999999"/>
+<text x="40" y="512.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Confidence</text>
+<rect x="40" y="520.9" width="112" height="4" fill="#999999"/>
+<rect x="152" y="520.9" width="27.999999999999993" height="4" fill="white"/>
+<text x="40" y="549.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Organization</text>
+<rect x="40" y="558.4" width="140" height="4" fill="#999999"/>
+<text x="40" y="587.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Time </text>
+<text x="65" y="587.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Management</text>
+<rect x="40" y="595.9" width="112" height="4" fill="#999999"/>
+<rect x="152" y="595.9" width="27.999999999999993" height="4" fill="white"/>
+<text x="40" y="624.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Communication</text>
+<rect x="40" y="633.4" width="140" height="4" fill="#999999"/>
+<rect x="220" y="214.275" width="77.3359375" height="16.5" fill="#8a0f4e"/>
+<text x="224" y="226.425" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">SUMMARY</text>
+<text x="220" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Caring </text>
+<text x="252.236328125" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="271.69921875" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">compassionate </text>
+<text x="341.73828125" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">elementary </text>
+<text x="393.984375" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">school </text>
+<text x="425.6689453125" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">teacher </text>
+<text x="461.8017578125" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="482.36328125" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">5</text>
+<text x="487.9248046875" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="496.54296875" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">years </text>
+<text x="523.7744140625" y="250.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="220" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experience </text>
+<text x="271.69921875" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="291.162109375" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Arizona </text>
+<text x="327.8466796875" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">State </text>
+<text x="353.974609375" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Educator </text>
+<text x="396.77734375" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">License</text>
+<text x="431.2451171875" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="436.8017578125" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Improved </text>
+<text x="481.2646484375" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">student </text>
+<text x="516.845703125" y="264.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">test </text>
+<text x="220" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">scores </text>
+<text x="252.2314453125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="265.5712890625" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20% </text>
+<text x="288.3642578125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="307.8271484375" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">pass </text>
+<text x="331.728515625" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">rate </text>
+<text x="351.73828125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="365.078125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">30% </text>
+<text x="387.87109375" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="398.4326171875" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">one </text>
+<text x="417.8955078125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">year</text>
+<text x="437.3486328125" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="442.9052734375" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Excited </text>
+<text x="478.4765625" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="489.5947265625" y="278.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">leverage </text>
+<text x="220" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">lesson </text>
+<text x="251.6845703125" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">planning </text>
+<text x="292.275390625" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">skills </text>
+<text x="316.71875" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="336.181640625" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">proven </text>
+<text x="369.5361328125" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">classroom </text>
+<text x="417.880859375" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management </text>
+<text x="479.0283203125" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">techniques </text>
+<text x="530.17578125" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">as </text>
+<text x="543.515625" y="292.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="220" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">3rd </text>
+<text x="237.2314453125" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">grade </text>
+<text x="265.5859375" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">teacher </text>
+<text x="301.71875" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">at </text>
+<text x="312.8369140625" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Oasis </text>
+<text x="341.1767578125" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Elementary </text>
+<text x="394.53125" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">School</text>
+<text x="425.107421875" y="305.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<rect x="220" y="329.525" width="142.01953125" height="16.5" fill="#8a0f4e"/>
+<text x="224" y="341.67499999999995" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">WORK </text>
+<text x="269.6640625" y="341.67499999999995" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">EXPERIENCE</text>
+<text x="220" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Elementary </text>
+<text x="276.6943359375" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">School </text>
+<text x="312.8076171875" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Teacher </text>
+<text x="353.9404296875" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">(</text>
+<text x="357.2705078125" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">4th </text>
+<text x="375.048828125" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Grade</text>
+<text x="403.9501953125" y="366.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">)</text>
+<text x="469.1130078125" y="366.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Aug </text>
+<text x="489.684296875" y="366.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2018 </text>
+<text x="514.7087109375" y="366.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="520.817109375" y="366.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Present</text>
+<text x="220" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Central </text>
+<text x="255.0146484375" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Tucson </text>
+<text x="290.5859375" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Elementary</text>
+<text x="341.162109375" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="346.71875" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Tucson</text>
+<text x="379.51171875" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="385.068359375" y="379.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">AZ</text>
+<text x="240" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Improved </text>
+<text x="284.462890625" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">student </text>
+<text x="320.0439453125" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">test </text>
+<text x="338.9404296875" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">scores </text>
+<text x="371.171875" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="384.51171875" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20% </text>
+<text x="407.3046875" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="426.767578125" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">pass </text>
+<text x="450.6689453125" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">rate </text>
+<text x="470.6787109375" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="484.0185546875" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">30% </text>
+<text x="506.8115234375" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">from </text>
+<text x="529.58984375" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2018</text>
+<text x="551.8359375" y="393.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<circle cx="230" cy="391.65" r="2" fill="black"/>
+<text x="240" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">19 </text>
+<text x="253.9013671875" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">school </text>
+<text x="285.5859375" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">year </text>
+<text x="307.8173828125" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="318.935546875" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2019</text>
+<text x="341.181640625" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="344.51171875" y="407.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20</text>
+<text x="240" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Won </text>
+<text x="263.33984375" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Teacher </text>
+<text x="302.802734375" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="313.9208984375" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="330.6005859375" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Year </text>
+<text x="354.501953125" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Award </text>
+<text x="385.625" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="396.1865234375" y="421.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2020</text>
+<circle cx="230" cy="419.15" r="2" fill="black"/>
+<text x="240" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Implemented </text>
+<text x="300.5859375" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">new </text>
+<text x="321.708984375" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">quiz </text>
+<text x="342.83203125" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">structure </text>
+<text x="384.51171875" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="395.6298828125" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">increase </text>
+<text x="436.2060546875" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">knowledge </text>
+<text x="486.796875" y="434.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">retention</text>
+<circle cx="230" cy="432.9" r="2" fill="black"/>
+<text x="220" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Elementary </text>
+<text x="276.6943359375" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">School </text>
+<text x="312.8076171875" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Teacher </text>
+<text x="353.9404296875" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">(</text>
+<text x="357.2705078125" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">3rd </text>
+<text x="375.6103515625" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Grade</text>
+<text x="404.51171875" y="458.65" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">)</text>
+<text x="465.76828125" y="458.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Aug </text>
+<text x="486.3395703125" y="458.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2016 </text>
+<text x="511.363984375" y="458.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">- </text>
+<text x="517.4723828125" y="458.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Jul </text>
+<text x="533.03390625" y="458.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2018</text>
+<text x="220" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Desert </text>
+<text x="252.2314453125" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Hills </text>
+<text x="273.896484375" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Elementary</text>
+<text x="324.47265625" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="330.029296875" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Flagstaff</text>
+<text x="368.37890625" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="373.935546875" y="472.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">AZ</text>
+<text x="240" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Created </text>
+<text x="278.3544921875" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="286.6943359375" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">nurturing </text>
+<text x="328.9404296875" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="348.4033203125" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">engaging </text>
+<text x="392.333984375" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">environment </text>
+<text x="450.1416015625" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">that </text>
+<text x="469.599609375" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">welcomed </text>
+<text x="517.3974609375" y="486.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">all </text>
+<circle cx="230" cy="484.15" r="2" fill="black"/>
+<text x="240" y="499.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">students</text>
+<text x="240" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Established </text>
+<text x="294.4775390625" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="313.9404296875" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">effectively </text>
+<text x="361.181640625" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">enforced </text>
+<text x="402.8759765625" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">classroom </text>
+<text x="451.220703125" y="513.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">rules</text>
+<circle cx="230" cy="511.65" r="2" fill="black"/>
+<text x="240" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Liaised </text>
+<text x="274.4677734375" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="295.029296875" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">parents</text>
+<text x="328.3837890625" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="333.9404296875" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">school </text>
+<text x="365.625" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">board</text>
+<text x="391.201171875" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="396.7578125" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="416.220703125" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">support </text>
+<text x="452.353515625" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">staff </text>
+<text x="474.0283203125" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="485.146484375" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">help </text>
+<text x="506.8310546875" y="527.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">all </text>
+<circle cx="230" cy="525.4" r="2" fill="black"/>
+<text x="240" y="541.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">students </text>
+<text x="280.5810546875" y="541.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">succeed</text>
+<rect x="220" y="564.775" width="88.66992187499999" height="16.5" fill="#8a0f4e"/>
+<text x="224" y="576.925" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">EDUCATION</text>
+<text x="220" y="601.4" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Bachelor </text>
+<text x="265.5712890625" y="601.4" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="277.7880859375" y="601.4" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Science </text>
+<text x="318.369140625" y="601.4" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="330.0341796875" y="601.4" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Elementary </text>
+<text x="220" y="615.15" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Education</text>
+<text x="220" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Northern </text>
+<text x="261.6845703125" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Arizona </text>
+<text x="298.369140625" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">University</text>
+<text x="342.265625" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="347.822265625" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">Flagstaff</text>
+<text x="386.171875" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">, </text>
+<text x="391.728515625" y="628.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#666666">AZ</text>
+<text x="240" y="642.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Graduated </text>
+<text x="290.0341796875" y="642.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="300.595703125" y="642.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2015</text>
+<circle cx="230" cy="640.65" r="2" fill="black"/>
+<text x="240" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Relevant </text>
+<text x="282.24609375" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Coursework</text>
+<text x="335.595703125" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">: </text>
+<text x="341.15234375" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Foundations </text>
+<text x="398.9697265625" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="410.087890625" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Education</text>
+<text x="454.5654296875" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="460.1220703125" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Computer </text>
+<text x="506.806640625" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Literacy</text>
+<text x="541.8212890625" y="656.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<circle cx="230" cy="654.4" r="2" fill="black"/>
+<text x="240" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Classroom </text>
+<text x="290.56640625" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Management</text>
+<text x="348.935546875" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="354.4921875" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Student </text>
+<text x="391.7431640625" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Engagement</text>
+<text x="448.4521484375" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="454.0087890625" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Early </text>
+<text x="479.5703125" y="670.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Childhood </text>
+<text x="240" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Development</text>
+<text x="298.9208984375" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="304.4775390625" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Physical </text>
+<text x="344.4921875" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Sciences</text>
+<text x="385.068359375" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="390.625" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Instruction </text>
+<text x="439.5361328125" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">for </text>
+<text x="453.984375" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Elementary </text>
+<text x="507.3388671875" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Students</text>
+<text x="546.8115234375" y="683.9" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="240" y="697.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Social </text>
+<text x="270.0146484375" y="697.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Sciences</text>
+<rect x="220" y="721.275" width="107.67187499999997" height="16.5" fill="#8a0f4e"/>
+<text x="224" y="733.425" style="font:normal 12px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:1px" fill="white">CERTIFICATES</text>
+<text x="220" y="757.9" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Arizona </text>
+<text x="259.4482421875" y="757.9" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">State </text>
+<text x="286.6796875" y="757.9" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Educator </text>
+<text x="332.7978515625" y="757.9" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">License</text>
+<text x="240" y="771.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Earned </text>
+<text x="275.0244140625" y="771.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="285.5859375" y="771.65" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2015</text>
+<circle cx="230" cy="769.65" r="2" fill="black"/>
+<text x="240" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Certified </text>
+<text x="280.0146484375" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">by </text>
+<text x="293.3544921875" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="310.0341796875" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Certification </text>
+<text x="365.6103515625" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Unit </text>
+<text x="386.171875" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="397.2900390625" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="413.9697265625" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Arizona </text>
+<text x="450.654296875" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Department </text>
+<text x="505.6787109375" y="785.4" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<circle cx="230" cy="783.4" r="2" fill="black"/>
+<text x="240" y="799.15" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Education</text>
+</svg>

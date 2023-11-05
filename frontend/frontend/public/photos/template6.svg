@@ -1,0 +1,292 @@
+<svg width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 40,0 L 115,0 C 115,0,115,0,115,0 L 115,75 C 115,75,115,75,115,75 L 40,75 C 40,75,40,75,40,75 L 40,0 C 40,0,40,0,40,0 Z" fill="#943c2c" />
+<text x="58.8818359375" y="69.575" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="white">Resume</text>
+<text x="190" y="73.9375" style="font:normal 25px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Daniel </text>
+<text x="267.81982421875" y="73.9375" style="font:normal 25px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">McAllister</text>
+<text x="40" y="135.9875" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Personal </text>
+<text x="103.369140625" y="135.9875" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Details</text>
+<path d="M 40,144.6 L 555.28,144.6 C 555.28,144.6,555.28,144.6,555.28,144.6 L 555.28,145.1 C 555.28,145.1,555.28,145.1,555.28,145.1 L 40,145.1 C 40,145.1,40,145.1,40,145.1 L 40,144.6 C 40,144.6,40,144.6,40,144.6 Z" fill="#d8d8d8" />
+<text x="40" y="169.67499999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Name</text>
+<text x="190" y="169.67499999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Daniel </text>
+<text x="221.1279296875" y="169.67499999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">McAllister</text>
+<text x="40" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Email </text>
+<text x="67.783203125" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">address</text>
+<text x="190" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">d</text>
+<text x="195.5615234375" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="198.33984375" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mcallister</text>
+<text x="240.56640625" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">@</text>
+<text x="250.7177734375" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">gmail</text>
+<text x="274.6142578125" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="277.392578125" y="192.325" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">com</text>
+<text x="40" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Phone </text>
+<text x="71.6943359375" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">number</text>
+<text x="190" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">(</text>
+<text x="193.330078125" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">456</text>
+<text x="210.0146484375" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">) </text>
+<text x="216.123046875" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">789</text>
+<text x="232.8076171875" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">-</text>
+<text x="236.1376953125" y="214.975" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">1234</text>
+<text x="40" y="237.625" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Address</text>
+<text x="190" y="237.625" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Missoula</text>
+<text x="229.4580078125" y="237.625" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="235.0146484375" y="237.625" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">MT</text>
+<text x="40" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">LinkedIn</text>
+<text x="190" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">linkedin</text>
+<text x="223.9111328125" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="226.689453125" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">com/in/d</text>
+<text x="264.482421875" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">.</text>
+<text x="267.2607421875" y="260.27500000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">mcallister</text>
+<text x="40" y="287.71250000000003" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Summary</text>
+<path d="M 40,296.32500000000005 L 555.28,296.32500000000005 C 555.28,296.32500000000005,555.28,296.32500000000005,555.28,296.32500000000005 L 555.28,296.82500000000005 C 555.28,296.82500000000005,555.28,296.82500000000005,555.28,296.82500000000005 L 40,296.82500000000005 C 40,296.82500000000005,40,296.82500000000005,40,296.82500000000005 L 40,296.32500000000005 C 40,296.32500000000005,40,296.32500000000005,40,296.32500000000005 Z" fill="#d8d8d8" />
+<text x="40" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Efficient </text>
+<text x="78.349609375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="97.8125" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">friendly </text>
+<text x="132.8271484375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cashier </text>
+<text x="167.841796875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="188.4033203125" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">5</text>
+<text x="193.96484375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="202.5830078125" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">years </text>
+<text x="229.814453125" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="240.9326171875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experience </text>
+<text x="292.6318359375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">operating </text>
+<text x="337.109375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">point </text>
+<text x="361.572265625" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="372.6904296875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">sale </text>
+<text x="393.8134765625" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems </text>
+<text x="433.26171875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="452.724609375" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">3</text>
+<text x="458.2861328125" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="466.904296875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">years </text>
+<text x="494.1357421875" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="505.25390625" y="321.40000000000003" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experience </text>
+<text x="40" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">handling </text>
+<text x="80.5908203125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">300</text>
+<text x="97.275390625" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="105.8935546875" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">transactions </text>
+<text x="162.587890625" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">per </text>
+<text x="179.8193359375" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">day</text>
+<text x="195.9423828125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="201.4990234375" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Excited </text>
+<text x="237.0703125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="248.1884765625" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">leverage </text>
+<text x="289.326171875" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">excellent </text>
+<text x="331.572265625" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">customer </text>
+<text x="375.4736328125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">service </text>
+<text x="409.9267578125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">skills </text>
+<text x="434.3701171875" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="453.8330078125" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">shift </text>
+<text x="474.951171875" y="334.05" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management </text>
+<text x="40" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">experience </text>
+<text x="91.69921875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">to </text>
+<text x="102.8173828125" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">join </text>
+<text x="121.162109375" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="137.841796875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Home </text>
+<text x="167.294921875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Depot </text>
+<text x="196.7578125" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">team </text>
+<text x="221.767578125" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">as </text>
+<text x="235.107421875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">a </text>
+<text x="243.447265625" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Cashier </text>
+<text x="280.68359375" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">(</text>
+<text x="284.013671875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Team </text>
+<text x="312.353515625" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Lead</text>
+<text x="334.599609375" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">)</text>
+<text x="337.9296875" y="346.7" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">. </text>
+<text x="40" y="374.1375" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Work </text>
+<text x="79.16259765625" y="374.1375" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Experience</text>
+<path d="M 40,382.75 L 555.28,382.75 C 555.28,382.75,555.28,382.75,555.28,382.75 L 555.28,383.25 C 555.28,383.25,555.28,383.25,555.28,383.25 L 40,383.25 C 40,383.25,40,383.25,40,383.25 L 40,382.75 C 40,382.75,40,382.75,40,382.75 Z" fill="#d8d8d8" />
+<text x="40" y="407.825" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Aug </text>
+<text x="60.5712890625" y="407.825" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">2018 </text>
+<text x="85.595703125" y="407.825" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">- </text>
+<text x="91.7041015625" y="407.825" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Present</text>
+<text x="190" y="407.825" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Cashier</text>
+<text x="226.6845703125" y="407.825" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="232.2412109375" y="407.825" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Shift </text>
+<text x="257.236328125" y="407.825" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Lead</text>
+<text x="190" y="420.47499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">IGA</text>
+<text x="207.7783203125" y="420.47499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="213.3349609375" y="420.47499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Missoula</text>
+<text x="256.123046875" y="420.47499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="261.6796875" y="420.47499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">MT</text>
+<text x="210" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Assign </text>
+<text x="242.79296875" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">shifts </text>
+<text x="268.9111328125" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="288.3740234375" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">manage </text>
+<text x="327.2900390625" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cashier </text>
+<text x="362.3046875" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">schedule </text>
+<text x="405.1123046875" y="433.12499999999994" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">changes</text>
+<circle cx="200" cy="431.12499999999994" r="2" fill="black"/>
+<text x="210" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Regularly </text>
+<text x="255.01953125" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">handle </text>
+<text x="287.8271484375" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">300</text>
+<text x="304.51171875" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="313.1298828125" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">transactions </text>
+<text x="369.82421875" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">per </text>
+<text x="387.0556640625" y="445.7749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">shift</text>
+<circle cx="200" cy="443.7749999999999" r="2" fill="black"/>
+<text x="210" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Perform </text>
+<text x="248.33984375" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">all </text>
+<text x="261.123046875" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">checkout </text>
+<text x="303.92578125" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">procedures </text>
+<text x="356.7333984375" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">quickly </text>
+<text x="390.078125" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="409.541015625" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">accurately</text>
+<text x="455.1171875" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="460.673828125" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">including </text>
+<text x="502.9248046875" y="458.4249999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">operating </text>
+<circle cx="200" cy="456.4249999999999" r="2" fill="black"/>
+<text x="210" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">the </text>
+<text x="226.6796875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">conveyor </text>
+<text x="270.0341796875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">belt</text>
+<text x="286.1572265625" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="291.7138671875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">barcode </text>
+<text x="330.6298828125" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">scanner</text>
+<text x="366.2060546875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="371.7626953125" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">scale</text>
+<text x="395.107421875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="400.6640625" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">entering </text>
+<text x="439.580078125" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">produce </text>
+<text x="478.49609375" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">codes</text>
+<text x="505.1806640625" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="510.7373046875" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="530.2001953125" y="471.0749999999999" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cash </text>
+<text x="210" y="483.72499999999985" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">register</text>
+<text x="210" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Assist </text>
+<text x="239.4482421875" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="260.009765625" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">stocking</text>
+<text x="296.6943359375" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="302.2509765625" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cleaning</text>
+<text x="339.501953125" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="345.05859375" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="364.521484375" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">guest </text>
+<text x="391.7626953125" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">services </text>
+<text x="431.2158203125" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">as </text>
+<text x="444.5556640625" y="496.37499999999983" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">necessary</text>
+<circle cx="200" cy="494.37499999999983" r="2" fill="black"/>
+<text x="210" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Upsold </text>
+<text x="243.90625" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">3% </text>
+<text x="261.1376953125" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="272.255859375" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">guests </text>
+<text x="304.4970703125" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="325.05859375" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">IGA </text>
+<text x="345.0634765625" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">memberships </text>
+<text x="407.861328125" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">in </text>
+<text x="418.4228515625" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">2021 </text>
+<text x="443.447265625" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">(</text>
+<text x="446.77734375" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">highest </text>
+<text x="481.8017578125" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">percentage </text>
+<text x="534.619140625" y="509.0249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<circle cx="200" cy="507.0249999999998" r="2" fill="black"/>
+<text x="210" y="521.6749999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">all </text>
+<text x="222.783203125" y="521.6749999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">IGA </text>
+<text x="242.7880859375" y="521.6749999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">employees</text>
+<text x="291.1474609375" y="521.6749999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">)</text>
+<text x="40" y="544.3249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Jun </text>
+<text x="58.9013671875" y="544.3249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">2016 </text>
+<text x="83.92578125" y="544.3249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">- </text>
+<text x="90.0341796875" y="544.3249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">Aug </text>
+<text x="110.60546875" y="544.3249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">2018</text>
+<text x="190" y="544.3249999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Cashier</text>
+<text x="190" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Bob's </text>
+<text x="220.15625" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">QuickMart </text>
+<text x="271.8359375" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">&#38; </text>
+<text x="281.8359375" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Gas </text>
+<text x="303.515625" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Station</text>
+<text x="337.40234375" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="342.958984375" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Missoula</text>
+<text x="385.7470703125" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="391.3037109375" y="556.9749999999998" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">MT</text>
+<text x="210" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Greeted </text>
+<text x="248.9111328125" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">customers </text>
+<text x="297.8125" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="317.275390625" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">assisted </text>
+<text x="356.73828125" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="377.2998046875" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">questions </text>
+<text x="422.8857421875" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="442.3486328125" y="569.6249999999998" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">concerns</text>
+<circle cx="200" cy="567.6249999999998" r="2" fill="black"/>
+<text x="210" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Operated </text>
+<text x="254.47265625" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">sole </text>
+<text x="275.595703125" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">checkout </text>
+<text x="318.3984375" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">lane</text>
+<text x="337.3046875" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="342.861328125" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">handling </text>
+<text x="383.4521484375" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">100</text>
+<text x="400.13671875" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="408.7548828125" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">transactions </text>
+<text x="465.44921875" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">per </text>
+<text x="482.6806640625" y="582.2749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">day</text>
+<circle cx="200" cy="580.2749999999997" r="2" fill="black"/>
+<text x="210" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Handled </text>
+<text x="250.029296875" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">20</text>
+<text x="261.15234375" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">+ </text>
+<text x="269.7705078125" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cash </text>
+<text x="293.671875" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">fuel </text>
+<text x="312.5732421875" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">purchases </text>
+<text x="361.4892578125" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">per </text>
+<text x="378.720703125" y="594.9249999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">day</text>
+<circle cx="200" cy="592.9249999999997" r="2" fill="black"/>
+<text x="210" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Assisted </text>
+<text x="250.5712890625" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">with </text>
+<text x="271.1328125" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">stocking</text>
+<text x="307.8173828125" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="313.3740234375" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cleaning</text>
+<text x="350.625" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="356.181640625" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">and </text>
+<text x="375.64453125" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">organizing </text>
+<text x="424.5654296875" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">as </text>
+<text x="437.9052734375" y="607.5749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">necessary</text>
+<circle cx="200" cy="605.5749999999997" r="2" fill="black"/>
+<text x="40" y="635.0124999999996" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Education</text>
+<path d="M 40,643.6249999999997 L 555.28,643.6249999999997 C 555.28,643.6249999999997,555.28,643.6249999999997,555.28,643.6249999999997 L 555.28,644.1249999999997 C 555.28,644.1249999999997,555.28,644.1249999999997,555.28,644.1249999999997 L 40,644.1249999999997 C 40,644.1249999999997,40,644.1249999999997,40,644.1249999999997 L 40,643.6249999999997 C 40,643.6249999999997,40,643.6249999999997,40,643.6249999999997 Z" fill="#d8d8d8" />
+<text x="40" y="668.6999999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">2012 </text>
+<text x="65.0244140625" y="668.6999999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">- </text>
+<text x="71.1328125" y="668.6999999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="#943c2c">2016</text>
+<text x="190" y="668.6999999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">High </text>
+<text x="214.9951171875" y="668.6999999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">School </text>
+<text x="251.1083984375" y="668.6999999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Diploma</text>
+<text x="190" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Missoula </text>
+<text x="235.56640625" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Central </text>
+<text x="272.7978515625" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">High </text>
+<text x="297.79296875" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">School</text>
+<text x="331.1279296875" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="336.6845703125" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Missoula</text>
+<text x="379.47265625" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="385.029296875" y="681.3499999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">MT</text>
+<text x="40" y="708.7874999999996" style="font:normal 15px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Skills</text>
+<path d="M 40,717.3999999999996 L 555.28,717.3999999999996 C 555.28,717.3999999999996,555.28,717.3999999999996,555.28,717.3999999999996 L 555.28,717.8999999999996 C 555.28,717.8999999999996,555.28,717.8999999999996,555.28,717.8999999999996 L 40,717.8999999999996 C 40,717.8999999999996,40,717.8999999999996,40,717.8999999999996 L 40,717.3999999999996 C 40,717.3999999999996,40,717.3999999999996,40,717.3999999999996 Z" fill="#d8d8d8" />
+<text x="40" y="742.4749999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Hard </text>
+<text x="65.5615234375" y="742.4749999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Skills</text>
+<text x="91.689453125" y="742.4749999999997" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">:</text>
+<text x="95.01953125" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black"> </text>
+<text x="97.7978515625" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Point </text>
+<text x="123.369140625" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">of </text>
+<text x="134.4873046875" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">sale </text>
+<text x="155.6103515625" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">systems</text>
+<text x="192.2802734375" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="197.8369140625" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">cash </text>
+<text x="221.73828125" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">register </text>
+<text x="257.861328125" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">operation</text>
+<text x="299.560546875" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="305.1171875" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">computer </text>
+<text x="349.580078125" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">skills</text>
+<text x="371.2451171875" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="376.8017578125" y="742.4749999999997" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">scheduling</text>
+<text x="40" y="767.7749999999996" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Soft </text>
+<text x="62.216796875" y="767.7749999999996" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Skills</text>
+<text x="88.3447265625" y="767.7749999999996" style="font:bold 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">:</text>
+<text x="91.6748046875" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black"> </text>
+<text x="94.453125" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">Customer </text>
+<text x="140.576171875" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">service</text>
+<text x="172.2509765625" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="177.8076171875" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">communication</text>
+<text x="245.05859375" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="250.615234375" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">friendliness</text>
+<text x="301.1962890625" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="306.7529296875" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">accuracy</text>
+<text x="346.767578125" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="352.32421875" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">positive </text>
+<text x="389.0087890625" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">attitude</text>
+<text x="421.8115234375" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">, </text>
+<text x="427.3681640625" y="767.7749999999996" style="font:normal 10px Arial,Helvetica,Arial,sans-serif;white-space:pre;letter-spacing:0px" fill="black">management</text>
+</svg>

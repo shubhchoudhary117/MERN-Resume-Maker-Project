@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --nav-color: #4314b6;
+    --font-family: 'Baloo Bhai 2', cursive;
+    --menu-color: #6e6e76;
+    --text-color: #6e6e76;
+    --btn-color: #4314b6;
+    --heading-color: #1d1d20;
+    --common-color: #4314b6;
+    --commna-font: 'Poppins', sans-serif;
+    --field-label-size: 14px;
+    --field-label-color:#52525a;
+    --detail-heading-color: #a2a2a8;
+    --roboto-font:'Roboto', sans-serif;
+    --tips-title:#335075;
+}

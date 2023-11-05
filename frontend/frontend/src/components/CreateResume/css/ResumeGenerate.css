@@ -1,0 +1,1669 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --nav-color: #4314b6;
+    --font-family: 'Baloo Bhai 2', cursive;
+    --menu-color: #6e6e76;
+    --text-color: #6e6e76;
+    --btn-color: #4314b6;
+    --heading-color: #1d1d20;
+    --common-color: #4314b6;
+    --commna-font: 'Poppins', sans-serif;
+    --field-label-size: 14px;
+    --field-label-color:#52525a;
+    --detail-heading-color: #a2a2a8;
+}
+
+.header {
+    width: 100%;
+}
+
+.header nav {
+    width: 100%;
+    height: 20px;
+    background-color: var(--heading-color);
+}
+
+.header nav .buttons {
+    display: flex;
+    position: absolute;
+    right: 40px;
+}
+
+.header nav .buttons button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: var(--btn-color);
+    border: none;
+    color: #FFFFFF;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-weight: 300;
+    cursor: pointer;
+    margin: 5px;
+}
+
+/* details filling section */
+.details-section {
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.details-section .details-filling-section {
+    width: 50%;
+    height: 100vh;
+}
+
+.details-section .generated-resume-section {
+    width: 50%;
+    height: 100vh;
+
+}
+
+.details-section .details-filling-section .details {
+    width: 90%;
+    height: 800px;
+    overflow-y: scroll;
+    margin: auto;
+    padding: 10px;
+    padding-right: 20px;
+}
+
+.details-section .details-filling-section .details .persional-details {
+    width: 100%;
+}
+
+.details-section .details-filling-section .details .persional-details .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .persional-details .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .persional-details .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .persional-details .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .persional-details .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .persional-details .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper {
+    width: 100%;
+
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+
+
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .left {
+    width: 140px;
+    height: 135px;
+}
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .left  .image-label{
+    font-size: var(--field-label-size);
+    color: var(--field-label-color);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+}
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .left .photo-box {
+    width: 100%;
+    height: 100%;
+    background-color: #f4f4f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .left .photo-box input {
+    display: none;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right {
+    width: 100%;
+ 
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .detail-combo-fields {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .detail-combo-fields .form-field {
+    width: 48%;
+    display: block;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .detail-combo-fields .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .detail-combo-fields .form-field input {
+    width: 96%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .detail-combo-fields .form-field input:focus {
+    border: 1px solid var(--common-color);
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .single-field {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .single-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .single-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .detail-fields-header .right .single-field input:focus {
+    border: 1px solid var(--common-color);
+}
+
+/* other fields */
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields {
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .form-field {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .form-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .form-field input:focus {
+    border: 1px solid var(--common-color);
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .postCode-city {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .postCode-city .form-field {
+    width: 48%;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .postCode-city .form-field input {
+    width: 100%;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .combo-three-fields {
+    width: 100%;
+    display: flex;
+    margin-top: 5px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .combo-three-fields .form-field {
+    width: 48%;
+    margin: 10px;
+}
+
+.details-section .details-filling-section .details .persional-details .details-fields-wrapper .details-fields .other-fields .combo-three-fields .form-field input {
+    width: 100%;
+    padding-left: 10px;
+}
+
+
+/* end of personal details section ------------------------------------------------------------------- */
+
+/* start the employeement detail section styling ----------------------------------------------------- */
+.details-section .details-filling-section .details .employeement-details {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .employeement-details .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .employeement-details .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .employeement-details .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .employeement-details .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .employeement-details .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .employeement-details .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .form-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .combo-fields{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .combo-fields .form-field{
+    width: 48%;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .combo-fields .form-field input{
+    width: 97%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .combo-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-dates{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-dates .form-field{
+    width:30% ;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-dates .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-dates .form-field  input{
+    width: 95%;
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-description{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-description .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-description textarea{
+    width: 97%;
+    height: 150px;
+    outline: none;
+    border: none;
+    background-color:#f4f4f5;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields .employer-description textarea:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details .employeement-details .employeement-details-wrapper .employeement-details-fields 
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+
+/* style the education detail section ------------------------------------------------------------------ */
+.details-section .details-filling-section .details .education-details {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .education-details .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .education-details .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .education-details .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .education-details .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .education-details .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .education-details .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .form-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .combo-fields{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .combo-fields .form-field{
+    width: 48%;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .combo-fields .form-field input{
+    width: 97%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.combo-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.education-dates-cgpa{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.education-dates-cgpa .form-field{
+    width:48% ;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.education-dates .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.education-dates-cgpa .form-field  input{
+    width:97%;
+}
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.education-description{
+    width: 100%;
+    margin-top: 15px;
+}
+
+
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields .education-description textarea:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields
+.button-section{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details .education-details .education-details-wrapper .education-details-fields 
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+
+/* end of education section ----------------------------------------------------- */
+/* start the skills section styling code ----------------------------------------- */
+
+.details-section .details-filling-section .details .skills-section {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .skills-section .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .skills-section .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .skills-section .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .skills-section  .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .skills-section .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .skills-section .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+  
+}
+
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields  .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields  .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields  input{
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields  input:focus{
+    border: 1px solid var(--common-color);
+}
+
+
+
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+.button-section{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+.button-section .skills{
+    width: 70%;
+    flex-wrap: wrap;
+    border: 1px solid green;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+.button-section .skills ul{
+    list-style: none;
+    display: flex;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+.button-section .skills ul li{
+    padding: 12px 28px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+.buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: 20px;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+ .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+ .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+ .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details .skills-section .skills-section-wrapper .skills-section-fields 
+ .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+
+/* end of skills section -------------------------------------------------------------------------------------- */
+
+/* start the languages section ------------------------------------------------------------------------------- */
+
+.details-section .details-filling-section .details .languages-section {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .languages-section .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .languages-section  .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .languages-section  .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .languages-section   .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .languages-section  .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .languages-section  .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+  
+}
+
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields  .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields  .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields   input{
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields   input:focus{
+    border: 1px solid var(--common-color);
+}
+
+
+
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details .languages-section  .languages-section-wrapper .languages-section-fields 
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+/* end of the languages secgion ------------------------------------------------------------------------------ */
+/* start the profile section -------------------------------------------------------------------------------- */
+.details-section .details-filling-section .details .profile-section {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .profile-section .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .profile-section .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .profile-section .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .profile-section  .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .profile-section  .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .profile-section   .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+  
+}
+
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields   .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields   .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields .form-field textarea{
+    width: 98%;
+    height: 150px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    color: #333333;
+    font-size: 1rem;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields .form-field  textarea:focus{
+    border: 1px solid var(--common-color);
+}
+
+
+
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields  
+.button-section{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields 
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields 
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields 
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields 
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details .profile-section   .profile-section-wrapper .profile-section-fields 
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+/* end of the profile section ------------------------------------------------------------------------------ */
+
+/* start the internship detail section ---------------------------------------------------------------------- */
+.details-section .details-filling-section .details .internship-details {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .internship-details .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .internship-details  .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .internship-details .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .internship-details  .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .internship-details .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .internship-details .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .internship-details  .internship-details-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
+
+.details-section .details-filling-section .details .internship-details  .internship-details-wrapper .internship-details-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .form-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .combo-fields{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields  .combo-fields .form-field{
+    width: 48%;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .combo-fields .form-field input{
+    width: 95%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .combo-fields .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-dates{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-dates .form-field{
+    width:48% ;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-dates .form-field .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-dates .form-field  input{
+    width: 95%;
+}
+
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields  .internship-description{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-description .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-description textarea{
+    width: 97%;
+    height: 150px;
+    outline: none;
+    border: none;
+    background-color:#f4f4f5;
+    padding: 10px;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields .internship-description textarea:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details  .internship-details  .internship-details-wrapper .internship-details-fields
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+
+/* end of the internship detail section --------------------------------------------------------------------- */
+
+/* start the certificate details section ------------------------------------------------------- */
+.details-section .details-filling-section .details .certificate-details {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.details-section .details-filling-section .details .certificate-details .hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+
+}
+
+.details-section .details-filling-section .details .certificate-details  .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details-section .details-filling-section .details .certificate-details .header .heading {
+    font-size: 1.3rem;
+    color: var(--detail-heading-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.details-section .details-filling-section .details .certificate-details .header .icon-wrapper {
+    width: 30px;
+    height: 30px;
+    border: 1px solid var(--heading-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.details-section .details-filling-section .details .certificate-details .header .icon-wrapper .add-icon {
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+
+}
+
+.details-section .details-filling-section .details .certificate-details .header .icon-wrapper .close-icon {
+    width: 27px;
+    height: 27px;
+    font-weight: 200;
+    color: var(--heading-color);
+    cursor: pointer;
+    display: none;
+
+}
+
+.details-section .details-filling-section .details .certificate-details  .certificate-details-wrapper {
+    width: 100%;
+    height: 0px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-top: 10px;
+  
+}
+
+.details-section .details-filling-section .details .certificate-details  .certificate-details-wrapper .certificate-details-fields {
+    width: 95%;
+    padding: 20px;
+    
+}
+
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields  .form-field {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.details-section .details-filling-section .details    .certificate-details  .certificate-details-wrapper .certificate-details-fields  .form-field .label {
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: var(--field-label-color);
+}
+
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields  .form-field input {
+    width: 98%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields  .form-field input:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields .certificate-period-times{
+    width: 100%;
+    margin-top: 15px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields .certificate-period-times .form-fields{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields .certificate-period-times .form-fields .form-field{
+    width: 48%;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields .certificate-period-times  .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    color: var(--field-label-color);
+    margin-bottom: -7px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields 
+.certificate-period-times .form-field select{
+    width: 100%;
+    height: 45px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    text-transform: capitalize;
+    color: var(--text-color);
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields 
+.certificate-period-times .form-field select:focus{
+    border: 1px solid var(--common-color);
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields 
+.certificate-period-times
+ .form-field select option{
+    font-size: 1.1rem;
+    color: var(--text-color);
+    text-transform: capitalize;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.certificate-description{
+    width: 100%;
+    margin-top: 15px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.certificate-description .label{
+    font-size: var(--field-label-size);
+    text-transform: capitalize;
+    font-family: var(--commna-font);
+    font-weight: 400;
+    color: var(--field-label-color);
+    margin-bottom: 5px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.certificate-description textarea{
+    width: 98%;
+    height: 150px;
+    outline: none;
+    background-color: #f4f4f5;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.certificate-description textarea:focus{
+    border: 1px solid var(--common-color);
+}
+
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.details-section .details-filling-section .details .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section .buttons{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 13px;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section .buttons .save-btn button
+{
+    width: 100px;
+    height: 40px;
+    background-color: var(--btn-color);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    text-transform: capitalize;
+    cursor: pointer;
+    
+    
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section .buttons .save-btn button .right-icon{
+    margin-right: 3px;
+    font-weight: 100;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section .buttons .delete-btn{
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(162 162 168/1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.details-section .details-filling-section .details  .certificate-details  .certificate-details-wrapper .certificate-details-fields
+.button-section .buttons .delete-btn .delete-icon{
+    width: 26px;
+    height: 26px;
+   color:rgba(0, 0, 0, 0.7);
+}
+/* end of the certificate details section ------------------------------------------------------- */

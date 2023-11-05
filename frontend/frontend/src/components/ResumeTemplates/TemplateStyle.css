@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Poppins:wght@100;300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Poppins:ital,wght@0,100;0,300;0,500;1,400&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root {
+    --nav-color: #4314b6;
+    --font-family: 'Baloo Bhai 2', cursive;
+    --menu-color: #6e6e76;
+    --text-color: #6e6e76;
+    --btn-color: #4314b6;
+    --heading-color:#1d1d20;
+    --common-color:#4314b6;
+    --commna-font:'Poppins', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 60px;
+}
+header nav{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}
+header nav .logo {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--nav-color);
+    font-family: var(--font-family);
+}
+
+.templates-section{
+    width: 100%;
+    margin-top: 20px;
+}
+.templates-section .heading{
+    width: 480px;
+    height: 120px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+.templates-section .heading .title{
+    font-size: 3rem;
+    font-weight: 600;
+    color: var(--heading-color);
+}
+.templates-section .heading  .text{
+    font-size: 18px;
+    padding-top: 4px;
+    color: var(--text-color);
+    font-family: var(--commna-font);
+    text-transform: capitalize;
+}
+.templates-section .templates-Container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.templates-section .templates-Container .template{
+    width: 330px;
+    height: 480px;
+    margin: 20px;
+}
+.templates-section .templates-Container .template img{
+    width: 100%;
+    height: 100%;
+}

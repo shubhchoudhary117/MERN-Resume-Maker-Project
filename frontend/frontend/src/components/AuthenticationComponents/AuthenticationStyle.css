@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root {
+    --text: #272643;
+    --text-light: #c5c5c5;
+    --white: #fff;
+    --light: #e3f6f5;
+    --med: #bae8e8;
+    --dark: #2c698d;
+    --primary: #45a1fa;
+    --secondary: #00c0ff;
+    --comman-font:'Roboto', sans-serif;
+    --validation-error:#E91100;
+}
+.background-section{
+    width: 100%;
+    height: 700px;
+    background-image: url("../../../../frontend/public/photos/backgroundImg.svg");
+    background-size: cover;
+     background-repeat: no-repeat;
+    margin-top: -20px;
+}
+
+.background-section header .logo{
+   padding-top: 30px;
+}
+.background-section .user-registration-section{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.background-section .user-registration-section  .register-form{
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.background-section .user-registration-section  .register-form .heading{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.background-section .user-registration-section  .register-form .heading .title{
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #272643;
+}
+.background-section .user-registration-section  .register-form .heading .text{
+    font-size: 0.9rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: var(--text-light);
+    font-family: var(--comman-font);
+    margin-top: 10px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper{
+    width: 100%;
+}
+
+.background-section .user-registration-section  .register-form .form-wrapper .form-field{
+    width: 280px;
+    height: 55px;
+    margin: auto;
+    margin-top: 23px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .form-field:nth-child(1){
+    margin-top: 0px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .form-field input{
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(240 240 240/1);
+    margin-top: 20px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .form-field input::placeholder{
+    font-size: 1rem;
+    text-transform: capitalize;
+    font-family: var(--comman-font);
+    color: var(--text-light);
+    font-weight: 500;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .form-field .validation-error{
+    font-size: 0.8rem;
+    font-family: var(--comman-font);
+    color:var(--validation-error);
+    padding-left: 2px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .register-btn{
+    width: 280px;
+    height: 50px;
+    margin: auto;
+    margin-top: 25px;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .register-btn button{
+    width: 99%;
+    height: 45px;
+    background-color: var(--secondary);
+    color: #fff;
+    font-family: var(--comman-font);
+    text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+}
+.background-section .user-registration-section  .register-form .form-wrapper .message{
+    width:280px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+    color: var(--text);
+    font-family: var(--comman-font);
+}
+.background-section .user-registration-section  .register-form .form-wrapper .message .link{
+    color: var(--secondary);
+}
